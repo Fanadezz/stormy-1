@@ -1,10 +1,12 @@
-package johnweland.me.stormy;
+package johnweland.me.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import johnweland.me.stormy.R;
 
 /**
  * Created by jweland on 5/26/2015.
